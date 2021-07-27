@@ -1,4 +1,4 @@
-# Expanding-Card-
+# Expanding-Cards
 It uses CSS transition effects and some basic JavaScript
 
 
